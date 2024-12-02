@@ -26,7 +26,7 @@ printLastName("Jimenez")
 
 
 
-// const lives withing the block and cannot be changed 
+// const lives withing the block and cannot be changed  d
 const person = {
   first_name: "",
   last_name: ""
